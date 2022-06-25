@@ -83,22 +83,7 @@ main h2 {
 .formu {
     width: 80%;
 }
-
-.ordenInfoNos:nth-of-type(1){
-    order: 0;
-}
-.ordenInfoNos:nth-of-type(2){
-    order: 1;
-}
-.ordenInfoNos:nth-of-type(3){
-    order: 3;
-}
-.ordenInfoNos:nth-of-type(4){
-    order: 2;
-}
-.ordenInfoNos:nth-of-type(5){
-    order: 4;
-}
-.ordenInfoNos:nth-of-type(6){
-    order: 5;
+.cardBod:hover {
+    box-shadow: 5px 5px 20px lightgray;
+    transform: translateY(-3%);
 }
